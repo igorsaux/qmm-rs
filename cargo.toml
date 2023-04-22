@@ -1,0 +1,2 @@
+[workspace]
+members = ["qmm-cli", "qmm-syntax", "qmm-player"]

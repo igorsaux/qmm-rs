@@ -1,0 +1,9 @@
+[package]
+name = "qmm-player"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+fastrand = { version = "1.9.0", default-features = false }
+qmm-syntax = { path = "../qmm-syntax" }
+rand = "0.8.5"

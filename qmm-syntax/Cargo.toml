@@ -1,0 +1,8 @@
+[package]
+name = "qmm-syntax"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+bitflags = "2.1.0"
+bytemuck = "1.13.1"
